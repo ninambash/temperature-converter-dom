@@ -1,3 +1,26 @@
-h1 {
-  color: blue;
+body{
+  background-color:rgb(236, 231, 223);
+  width: 1400px;
+  height: 30px;
+  text-align: center;
 }
+
+ .btn-container{
+   display: flex;
+   align-content: flex-start;
+   flex-direction: row;
+  -ms-flex-align: center;
+  flex-direction: inherit;
+  margin: 50px 0px;
+  
+  
+   
+ } 
+  h1{
+   padding:10px;
+   color: black;
+  
+  }
+  
+  
+  
